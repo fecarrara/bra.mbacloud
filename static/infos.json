@@ -1,0 +1,118 @@
+[
+
+    {
+ 
+        "integrante": 1,
+ 
+        "estado": "SP",
+ 
+        "idade" : 27,
+ 
+        "pet" : "False",
+ 
+        "music": [
+ 
+            {"name":"O Telefone", "estilo": "MBP"}
+ 
+        ]
+ 
+    },{
+ 
+        "integrante": 2,
+ 
+        "estado": "PR",
+ 
+        "idade" : 46,
+ 
+        "pet" : "true",
+ 
+        "music": [
+ 
+            {"name":"Dont forget about me", "estilo": "Rock"}
+ 
+        ]
+ 
+    },{
+ 
+        "integrante": 3,
+ 
+        "estado": "SP",
+ 
+        "idade" : 43,
+ 
+        "pet" : "false",
+ 
+        "music": [
+ 
+            {"name":"Vintage Culture", "estilo": "Eletronica"}
+ 
+        ]
+ 
+    },{
+ 
+        "integrante": 4,
+ 
+        "estado": "SP",
+ 
+        "idade" : 28,
+ 
+        "pet" : "true",
+ 
+        "music": [
+ 
+            {"name":"O anjo mais velho", "estilo": "POP"}
+ 
+        ]
+ 
+    },{
+ 
+        "integrante": 5,
+ 
+        "estado": "PR",
+ 
+        "idade" : 43,
+ 
+        "pet" : "true",
+ 
+        "music": [
+ 
+            {"name":"Saudades do Tempo", "estilo": "Reggae"}
+ 
+        ]
+ 
+    },{
+ 
+        "integrante": 6,
+ 
+        "estado": "SP",
+ 
+        "idade" : 49,
+ 
+        "pet" : "false",
+ 
+        "music": [
+ 
+            {"name":"Tente outra vez", "estilo": "Rock"}
+ 
+        ]
+ 
+    },{
+ 
+        "integrante": 7,
+ 
+        "estado": "PR",
+ 
+        "idade" : 57,
+ 
+        "pet" : "true",
+ 
+        "music": [
+ 
+            {"name":"Big boss man", "estilo": "Rock"}
+ 
+        ]
+ 
+    }
+    
+ 
+ ]
